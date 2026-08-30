@@ -1,0 +1,14 @@
+PORT=5000
+NODE_ENV=development
+
+# MongoDB Connection (Local or Atlas URI)
+# For local MongoDB: mongodb://127.0.0.1:27017/civicfix
+# For MongoDB Atlas: mongodb+srv://<username>:<password>@cluster0.mongodb.net/civicfix?retryWrites=true&w=majority
+MONGODB_URI=mongodb://127.0.0.1:27017/civicfix
+
+# JWT Secret for User Authentication
+JWT_SECRET=civicfix_secure_jwt_secret_token_2026_smart_city_platform
+JWT_EXPIRES_IN=7d
+
+# Allowed Client Origin
+CLIENT_URL=http://localhost:5173
