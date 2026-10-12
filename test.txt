@@ -1,0 +1,12 @@
+# CivicFix Quick Launch Helper
+# Run these commands in Windows PowerShell:
+
+# 1. Start Backend:
+# cd "c:\Users\RAMYA SRI\Downloads\road\server"
+# npm install
+# npm run dev
+
+# 2. Start Frontend:
+# cd "c:\Users\RAMYA SRI\Downloads\road\client"
+# npm install
+# npm run dev
