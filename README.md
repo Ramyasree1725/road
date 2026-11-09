@@ -2,7 +2,7 @@
 
 > **Tagline:** *Report It. Track It. Improve Your City.*  
 > **Project Type:** Full-Stack Web Application (MERN Stack)  
-> **Author:** Ramya Sri & CivicFix Team  
+> **Core Team & Contributors:** Ramya Sri (Lead), Phani, Radhika ([CONTRIBUTORS.md](CONTRIBUTORS.md))  
 > **Theme:** Green Smart-City Municipal Theme (Eco-friendly emerald & mint accents)
 
 ---
